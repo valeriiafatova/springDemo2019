@@ -1,4 +1,4 @@
-package com.epam.university;
+package com.epam.university.contoller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
